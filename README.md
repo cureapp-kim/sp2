@@ -6,6 +6,8 @@
 ![types](https://img.shields.io/npm/types/sp2.svg?style=flat)
 ![npm downloads](https://img.shields.io/npm/dm/@sp2/updater.svg?style=flat)
 ![license](https://img.shields.io/npm/l/sp2.svg?style=flat)
+[![DeepScan grade](https://deepscan.io/api/teams/9571/projects/12107/branches/183468/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9571&pid=12107&bid=183468)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=cureapp-kim_sp2&metric=alert_status)](https://sonarcloud.io/dashboard?id=cureapp-kim_sp2)
 
 `sp2` is an immutable updater of objects using JSON operation.
 Suitable for flux state transition like [Redux](https://redux.js.org).
